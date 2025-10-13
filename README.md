@@ -1,4 +1,4 @@
-## 🖖 Olá, sou Samuel Lucas da Silva, Analista e Desenvolvedor de Sistemas. 
+## 🖖 Olá, sou Samuel Lucas da Silva, Analista e Desenvolvedor de Sistemas, Com pós em Engenharia de Software e MBA em gestão de Tecnologia . 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Um pouco sobre Mim.
 
