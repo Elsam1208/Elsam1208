@@ -31,7 +31,7 @@ const SamuelLucasdaSilva = {
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<div align="center">
+[<div align="center">
   <a href="https://github.com/Elsam1208">
 
     <img
@@ -49,7 +49,8 @@ const SamuelLucasdaSilva = {
   </a>
 </div>
 
-
+](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsam1208&layout=compact&langs_count=7&theme=dracula
+)
   
 
 
