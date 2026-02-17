@@ -21,7 +21,7 @@ const SamuelLucasdaSilva = {
 * Cyber Security
 * Computação em Nuvem Google
 
-## 💻 Minhas Skills
+## 💻 Linguagens 
 
 <code><img height="32" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NEXT.JS"/></code>
 <code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
@@ -30,4 +30,9 @@ const SamuelLucasdaSilva = {
 <code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft_SQL_Server"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B" alt="python"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></code>)
+<code><img height="32" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></code>
+
+## Bibliotecas e Frameworks
+
+## Ferramentas
+
