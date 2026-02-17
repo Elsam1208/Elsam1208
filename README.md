@@ -24,36 +24,4 @@ const SamuelLucasdaSilva = {
 <code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft_SQL_Server"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B" alt="python"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></code>
-
-
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-
-<div align="center">
-
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=Elsam1208&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-  />
-
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsam1208&layout=compact&langs_count=7&theme=dracula"
-  />
-
-</div>
-
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Elsam1208&layout=compact&langs_count=7&theme=dracula
-)
-  
-
-
-
-#### Rede Sociais!
-
-📺 [youtube]:em desenvolvimento **|** 
-👔 [LinkedIn]:(https://www.linkedin.com/in/samuel-lucas-da-silva-1a9a93104/)
+<code><img height="32" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></code>)
