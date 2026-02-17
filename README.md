@@ -2,12 +2,13 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Um pouco sobre Mim.
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
 
 ```JavaScript
 const SamuelLucasdaSilva = {
   nome: "Samuel Lucas da Silva",
-  Area: "ANALISTA E DESENVOLVEDOR DE SISTEMAS",
+  Area: "ANALISTA E DESENVOLVEDOR DE SISTEMAS/ Engenheiro de Software",
   Linguagens: [".SQL", "JavaScript", "Python","C++"],
 };
 ```
@@ -31,25 +32,22 @@ const SamuelLucasdaSilva = {
 
 ## ⭐ Informações sobre minha conta GitHub
 
-[<div align="center">
-  <a href="https://github.com/Elsam1208">
+<div align="center">
 
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Elsam1208&theme=dracula&show_icons=true"
-      alt="Estatísticas de Elsam1208"
-    />
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=Elsam1208&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  />
 
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsam1208&layout=compact&langs_count=7&theme=dracula"
-      alt="Principais linguagens de Elsam1208"
-    />
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsam1208&layout=compact&langs_count=7&theme=dracula"
+  />
 
-  </a>
 </div>
 
-](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsam1208&layout=compact&langs_count=7&theme=dracula
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Elsam1208&layout=compact&langs_count=7&theme=dracula
 )
   
 
