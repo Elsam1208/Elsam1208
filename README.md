@@ -1,4 +1,4 @@
-## 🖖 Olá, sou Samuel Lucas da Silva, Analista e Desenvolvedor de Sistemas, Com pós em Engenharia de Software e MBA em gestão de Tecnologia . 
+## 🖖 Olá, sou Samuel Lucas da Silva,Engenheiro de Software -Junior(Fornt End)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Um pouco sobre Mim.
 
@@ -14,6 +14,12 @@ const SamuelLucasdaSilva = {
 ```
 
 ----
+## Minhas Formações:
+* Tecnólogo em Analise e desenvolvimento de Sistemas
+* Pós Graduação em  Engenharia de Software
+* MBA Gestão da Tecnologia da Informação
+* Cyber Security
+* Computação em Nuvem Google
 
 ## 💻 Minhas Skills
 
