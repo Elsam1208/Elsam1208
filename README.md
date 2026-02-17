@@ -1,4 +1,4 @@
-## 🖖 Olá, sou Samuel Lucas da Silva,Engenheiro de Software -Junior(Fornt End)
+## 🖖 Olá, sou Samuel Lucas da Silva, Engenheiro de Software - Junior (Front End)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Um pouco sobre Mim.
 
