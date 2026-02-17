@@ -51,4 +51,13 @@ const SamuelLucasdaSilva = {
 
 <p align="center"><img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Elsam1208&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="170em"       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Elsam1208&layout=compact&langs_count=7&theme=dracula"/>
+</p>         
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Elsam1208&theme=dracula" />
 </p>
+
+
+
+
+
+
