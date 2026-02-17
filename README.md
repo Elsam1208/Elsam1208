@@ -38,6 +38,9 @@ const SamuelLucasdaSilva = {
 <code><img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT.JS"/></code></code>
 ## Ferramentas
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) [6]
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub release (latest by date)](https://img.shields.io)
+![GitHub license](https://img.shields.io)
+
 
 
