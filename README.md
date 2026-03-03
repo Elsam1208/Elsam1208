@@ -66,3 +66,12 @@ const SamuelLucasdaSilva = {
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsam1208&theme=radical) | ![](https://streak-stats.demolab.com?user=Elsam1208&theme=tokyonight&hide_border=false) |
 | :-: | :-: |
+
+## 📜 Cursos & Certificações
+
+<div align="center">
+
+| Badge | Certificado | Plataforma | Nível | Habilidades | Ano | Status |
+| :---: | :--- | :---: | :---: | :--- | :---: | :---: |
+| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/9b6070693c060fd651184cada92e3a45ee3db2fd.png" width="60"/> | **[Introduction to AWS Boto in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9b6070693c060fd651184cada92e3a45ee3db2fd)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | ![Intermediate](https://img.shields.io/badge/Intermediate-c2410c?style=flat-square) | `Python` `AWS` `S3` `SNS` `Rekognition` | `2026` | ✅ |
+
