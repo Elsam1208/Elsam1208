@@ -62,3 +62,7 @@ const SamuelLucasdaSilva = {
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elsam1208&theme=radical" alt="Repos per Language" style="margin: 0 10px;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elsam1208&theme=radical" alt="Most Commit Language" style="margin: 0 10px;" />
 </p>
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsam1208&theme=radical) | ![](https://streak-stats.demolab.com?user=Elsam1208&theme=tokyonight&hide_border=false) |
+| :-: | :-: |
