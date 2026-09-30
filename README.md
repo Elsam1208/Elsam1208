@@ -49,35 +49,20 @@ const SamuelLucasdaSilva = {
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<h2 align="center">⭐ Estatísticas do GitHub</h2>
+<h2 align="center">⭐ Informações sobre minha conta GitHub</h2>
 
-<div align="center">
-
+<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsam1208&theme=dracula"
-    alt="GitHub Profile Details"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elsam1208&theme=radical"
+    alt="Estatísticas GitHub"
   />
-
-  <br><br>
-
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elsam1208&theme=dracula"
-    alt="GitHub Stats"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elsam1208&theme=radical"
+    alt="Linguagens mais utilizadas"
   />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elsam1208&theme=dracula"
-    alt="Top Languages"
-  />
-
-  <br><br>
-
-  <img
-    src="https://streak-stats.demolab.com?user=Elsam1208&theme=dracula"
-    alt="GitHub Streak"
-  />
-
-</div>
+</p>
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsam1208&theme=radical) | ![](https://streak-stats.demolab.com?user=Elsam1208&theme=tokyonight&hide_border=false) |
