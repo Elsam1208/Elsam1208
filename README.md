@@ -49,19 +49,35 @@ const SamuelLucasdaSilva = {
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<p align="center"><img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Elsam1208&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170em"       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Elsam1208&layout=compact&langs_count=7&theme=dracula"/>
-</p>         
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Elsam1208&theme=dracula" />
-</p>
+<h2 align="center">⭐ Estatísticas do GitHub</h2>
 
+<div align="center">
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elsam1208&theme=radical" alt="Stats" style="margin: 0 10px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elsam1208&theme=radical" alt="Repos per Language" style="margin: 0 10px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elsam1208&theme=radical" alt="Most Commit Language" style="margin: 0 10px;" />
-</p>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsam1208&theme=dracula"
+    alt="GitHub Profile Details"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elsam1208&theme=dracula"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elsam1208&theme=dracula"
+    alt="Top Languages"
+  />
+
+  <br><br>
+
+  <img
+    src="https://streak-stats.demolab.com?user=Elsam1208&theme=dracula"
+    alt="GitHub Streak"
+  />
+
+</div>
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsam1208&theme=radical) | ![](https://streak-stats.demolab.com?user=Elsam1208&theme=tokyonight&hide_border=false) |
